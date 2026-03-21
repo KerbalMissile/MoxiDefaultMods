@@ -10,3 +10,6 @@ https://www.nexusmods.com/planetcrafter/mods/165?tab=description
 
 First Person Body:
 https://www.nexusmods.com/planetcrafter/mods/131?tab=files&file_id=1359
+
+Performance Mod:
+https://www.nexusmods.com/planetcrafter/mods/129?tab=description
