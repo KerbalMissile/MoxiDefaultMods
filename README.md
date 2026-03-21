@@ -6,10 +6,13 @@ No Version Number:
 https://www.nexusmods.com/planetcrafter/mods/127
 
 ContainerFinder:
-https://www.nexusmods.com/planetcrafter/mods/165?tab=description
+https://www.nexusmods.com/planetcrafter/mods/165
 
 First Person Body:
-https://www.nexusmods.com/planetcrafter/mods/131?tab=files&file_id=1359
+https://www.nexusmods.com/planetcrafter/mods/131
 
 Performance Mod:
-https://www.nexusmods.com/planetcrafter/mods/129?tab=description
+https://www.nexusmods.com/planetcrafter/mods/129
+
+Fall Damage Tweaks:
+https://www.nexusmods.com/planetcrafter/mods/128
