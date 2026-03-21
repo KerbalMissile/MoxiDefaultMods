@@ -1,6 +1,7 @@
 # MoxiTest
 Moxi test repo for mods, will be removed later
 
+## Planet Crafter
 
 No Version Number:
 https://www.nexusmods.com/planetcrafter/mods/127
@@ -16,3 +17,11 @@ https://www.nexusmods.com/planetcrafter/mods/129
 
 Fall Damage Tweaks:
 https://www.nexusmods.com/planetcrafter/mods/128
+
+## Subnautica
+
+More Torpedo Damage:
+https://www.nexusmods.com/subnautica/mods/3078
+
+Nautilus:
+https://www.nexusmods.com/subnautica/mods/1262
