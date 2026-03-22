@@ -40,3 +40,14 @@ https://www.nexusmods.com/subnautica/mods/24
 
 Upgrades LIB:
 https://www.nexusmods.com/subnautica/mods/2430
+
+Bed Teleport:
+https://www.nexusmods.com/subnautica/mods/1217?tab=description
+
+## Subnautica: Below Zero
+
+Nautilus BZ:
+https://www.nexusmods.com/subnauticabelowzero/mods/373
+
+Bed Teleport BZ:
+https://www.nexusmods.com/subnauticabelowzero/mods/488
