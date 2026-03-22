@@ -31,3 +31,9 @@ https://www.nexusmods.com/subnautica/mods/3078
 
 Nautilus:
 https://www.nexusmods.com/subnautica/mods/1262
+
+EasyCraft:
+https://www.nexusmods.com/subnautica/mods/24
+
+Upgrades LIB:
+https://www.nexusmods.com/subnautica/mods/2430
