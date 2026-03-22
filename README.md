@@ -1,6 +1,3 @@
-# MoxiTest
-Moxi test repo for mods, will be removed later
-
 ## Planet Crafter
 
 No Version Number:
