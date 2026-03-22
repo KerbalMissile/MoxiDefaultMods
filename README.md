@@ -51,3 +51,14 @@ https://www.nexusmods.com/subnauticabelowzero/mods/373
 
 Bed Teleport BZ:
 https://www.nexusmods.com/subnauticabelowzero/mods/488
+
+## Slime Rahncer
+
+Simple SR mod library:
+https://www.nexusmods.com/slimerancher/mods/220
+
+Assets Lib:
+https://www.nexusmods.com/slimerancher/mods/341
+
+Velocity Slimes:
+https://www.nexusmods.com/slimerancher/mods/786
