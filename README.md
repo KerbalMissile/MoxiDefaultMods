@@ -62,3 +62,9 @@ https://www.nexusmods.com/slimerancher/mods/341
 
 Velocity Slimes:
 https://www.nexusmods.com/slimerancher/mods/786
+
+Slimes and Market Redux:
+https://www.nexusmods.com/slimerancher/mods/704
+
+Spore Slimes REMASTER:
+https://www.nexusmods.com/slimerancher/mods/531
