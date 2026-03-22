@@ -21,6 +21,12 @@ https://www.nexusmods.com/planetcrafter/mods/157
 Resource Scanner:
 https://www.nexusmods.com/planetcrafter/mods/113
 
+Spawn Objects:
+https://www.nexusmods.com/planetcrafter/mods/12
+
+Craft From Containers:
+https://www.nexusmods.com/planetcrafter/mods/9
+
 ## Subnautica
 
 More Torpedo Damage:
