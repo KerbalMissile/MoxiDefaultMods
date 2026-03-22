@@ -18,6 +18,9 @@ https://www.nexusmods.com/planetcrafter/mods/129
 Fall Damage Tweaks:
 https://www.nexusmods.com/planetcrafter/mods/128
 
+No Tree Collision:
+https://www.nexusmods.com/planetcrafter/mods/157
+
 ## Subnautica
 
 More Torpedo Damage:
