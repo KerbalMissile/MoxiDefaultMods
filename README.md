@@ -21,6 +21,9 @@ https://www.nexusmods.com/planetcrafter/mods/128
 No Tree Collision:
 https://www.nexusmods.com/planetcrafter/mods/157
 
+Nice Larvae:
+https://www.nexusmods.com/planetcrafter/mods/126?tab=files&file_id=124
+
 ## Subnautica
 
 More Torpedo Damage:
