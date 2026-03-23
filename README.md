@@ -82,3 +82,6 @@ https://www.nexusmods.com/slimerancher/mods/531
 
 Vacuum Modifications:
 https://www.nexusmods.com/slimerancher2/mods/45
+
+Interpolator:
+https://www.nexusmods.com/slimerancher2/mods/115
