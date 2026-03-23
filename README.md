@@ -85,3 +85,8 @@ https://www.nexusmods.com/slimerancher2/mods/45
 
 Interpolator:
 https://www.nexusmods.com/slimerancher2/mods/115
+
+## Schedule I
+
+Drones by ThrustGoblin forked:
+https://www.nexusmods.com/schedule1/mods/1653
