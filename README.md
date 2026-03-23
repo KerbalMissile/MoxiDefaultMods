@@ -61,9 +61,6 @@ https://www.nexusmods.com/subnauticabelowzero/mods/488
 Enable Achievements:
 https://www.nexusmods.com/subnauticabelowzero/mods/582
 
-Pinup:
-https://www.nexusmods.com/subnauticabelowzero/mods/599
-
 ## Slime Rahncer
 
 Simple SR mod library:
