@@ -77,3 +77,8 @@ https://www.nexusmods.com/slimerancher/mods/704
 
 Spore Slimes REMASTER:
 https://www.nexusmods.com/slimerancher/mods/531
+
+## Slime Rancher 2
+
+Vacuum Modifications:
+https://www.nexusmods.com/slimerancher2/mods/45
