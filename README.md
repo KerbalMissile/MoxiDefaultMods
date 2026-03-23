@@ -33,6 +33,12 @@ https://www.nexusmods.com/planetcrafter/mods/109
 Zoom:
 https://www.nexusmods.com/planetcrafter/mods/110
 
+Show Next Unlockables:
+https://www.nexusmods.com/planetcrafter/mods/18
+
+Grid Snap:
+https://www.nexusmods.com/planetcrafter/mods/94
+
 ## Subnautica
 
 More Torpedo Damage:
