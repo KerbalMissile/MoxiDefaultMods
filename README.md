@@ -27,6 +27,12 @@ https://www.nexusmods.com/planetcrafter/mods/12
 Craft From Containers:
 https://www.nexusmods.com/planetcrafter/mods/9
 
+Player Tracker:
+https://www.nexusmods.com/planetcrafter/mods/109
+
+Zoom:
+https://www.nexusmods.com/planetcrafter/mods/110
+
 ## Subnautica
 
 More Torpedo Damage:
@@ -51,6 +57,12 @@ https://www.nexusmods.com/subnauticabelowzero/mods/373
 
 Bed Teleport BZ:
 https://www.nexusmods.com/subnauticabelowzero/mods/488
+
+Enable Achievements:
+https://www.nexusmods.com/subnauticabelowzero/mods/582
+
+Pinup:
+https://www.nexusmods.com/subnauticabelowzero/mods/599
 
 ## Slime Rahncer
 
