@@ -90,3 +90,6 @@ https://www.nexusmods.com/slimerancher2/mods/115
 
 Drones by ThrustGoblin forked:
 https://www.nexusmods.com/schedule1/mods/1653
+
+Better Stacks:
+https://www.nexusmods.com/schedule1/mods/208
