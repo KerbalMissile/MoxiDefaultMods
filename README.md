@@ -59,6 +59,9 @@ https://www.nexusmods.com/subnautica/mods/1217?tab=description
 Solid Terrain (BepInEx):
 https://www.nexusmods.com/subnautica/mods/1140
 
+Epic Structure Loader:
+https://www.nexusmods.com/subnautica/mods/1666
+
 ## Subnautica: Below Zero
 
 Nautilus BZ:
