@@ -56,6 +56,9 @@ https://www.nexusmods.com/subnautica/mods/2430
 Bed Teleport:
 https://www.nexusmods.com/subnautica/mods/1217?tab=description
 
+Solid Terrain (BepInEx):
+https://www.nexusmods.com/subnautica/mods/1140
+
 ## Subnautica: Below Zero
 
 Nautilus BZ:
