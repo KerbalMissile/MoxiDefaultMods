@@ -62,6 +62,9 @@ https://www.nexusmods.com/subnautica/mods/1140
 Epic Structure Loader:
 https://www.nexusmods.com/subnautica/mods/1666
 
+Drill Tool:
+https://www.nexusmods.com/subnautica/mods/2541
+
 ## Subnautica: Below Zero
 
 Nautilus BZ:
