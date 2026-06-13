@@ -84,6 +84,12 @@ https://www.nexusmods.com/subnautica2/mods/184?tab=description
 Third Person Camera:
 https://www.nexusmods.com/subnautica2/mods/49?tab=description
 
+Subnautica Data Framework (SDF):
+https://www.nexusmods.com/subnautica2/mods/383?tab=description
+
+Realistic Survival:
+https://www.nexusmods.com/subnautica2/mods/216
+
 ## Slime Rahncer
 
 Simple SR mod library:
