@@ -76,6 +76,11 @@ https://www.nexusmods.com/subnauticabelowzero/mods/488
 Enable Achievements:
 https://www.nexusmods.com/subnauticabelowzero/mods/582
 
+## Subnautica 2
+
+Passive Creatures:
+https://www.nexusmods.com/subnautica2/mods/184?tab=description
+
 ## Slime Rahncer
 
 Simple SR mod library:
