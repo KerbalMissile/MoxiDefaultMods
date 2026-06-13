@@ -81,6 +81,9 @@ https://www.nexusmods.com/subnauticabelowzero/mods/582
 Passive Creatures:
 https://www.nexusmods.com/subnautica2/mods/184?tab=description
 
+Third Person Camera:
+https://www.nexusmods.com/subnautica2/mods/49?tab=description
+
 ## Slime Rahncer
 
 Simple SR mod library:
