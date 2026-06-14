@@ -90,6 +90,9 @@ https://www.nexusmods.com/subnautica2/mods/383?tab=description
 Realistic Survival:
 https://www.nexusmods.com/subnautica2/mods/216
 
+Lifepod Uplink:
+https://www.nexusmods.com/subnautica2/mods/391?tab=description
+
 ## Slime Rahncer
 
 Simple SR mod library:
